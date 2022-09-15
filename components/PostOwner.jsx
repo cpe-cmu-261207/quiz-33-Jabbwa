@@ -5,7 +5,7 @@ export default function PostOwner(props) {
     <div className="vstack gap-3">
       <div className="d-flex align-items-center gap-3">
         <img
-          src="/profileImages/popcat.png"
+          src="/profileImages/bird.jpg"
           width="48"
           height="48"
           className="rounded-circle"
